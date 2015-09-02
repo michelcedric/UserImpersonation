@@ -1,0 +1,5 @@
+F:\UserImpersonation\UserImpersonation\bin\Release\UserImpersonation.dll
+F:\UserImpersonation\UserImpersonation\bin\Release\UserImpersonation.pdb
+F:\UserImpersonation\UserImpersonation\obj\Release\UserImpersonation.csprojResolveAssemblyReference.cache
+F:\UserImpersonation\UserImpersonation\obj\Release\UserImpersonation.dll
+F:\UserImpersonation\UserImpersonation\obj\Release\UserImpersonation.pdb

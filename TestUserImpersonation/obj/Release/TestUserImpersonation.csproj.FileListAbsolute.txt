@@ -1,0 +1,8 @@
+F:\UserImpersonation\TestUserImpersonation\obj\Release\TestUserImpersonation.csprojResolveAssemblyReference.cache
+F:\UserImpersonation\TestUserImpersonation\bin\Release\TestUserImpersonation.exe.config
+F:\UserImpersonation\TestUserImpersonation\bin\Release\TestUserImpersonation.exe
+F:\UserImpersonation\TestUserImpersonation\bin\Release\TestUserImpersonation.pdb
+F:\UserImpersonation\TestUserImpersonation\bin\Release\UserImpersonation.dll
+F:\UserImpersonation\TestUserImpersonation\bin\Release\UserImpersonation.pdb
+F:\UserImpersonation\TestUserImpersonation\obj\Release\TestUserImpersonation.exe
+F:\UserImpersonation\TestUserImpersonation\obj\Release\TestUserImpersonation.pdb

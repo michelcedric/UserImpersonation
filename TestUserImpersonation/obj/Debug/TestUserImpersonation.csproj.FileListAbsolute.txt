@@ -1,0 +1,16 @@
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\TestUserImpersonation\bin\Debug\TestUserImpersonation.exe.config
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\TestUserImpersonation\bin\Debug\TestUserImpersonation.exe
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\TestUserImpersonation\bin\Debug\TestUserImpersonation.pdb
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\TestUserImpersonation\bin\Debug\UserImpersonation.dll
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\TestUserImpersonation\bin\Debug\UserImpersonation.pdb
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\TestUserImpersonation\obj\Debug\TestUserImpersonation.csprojResolveAssemblyReference.cache
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\TestUserImpersonation\obj\Debug\TestUserImpersonation.exe
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\TestUserImpersonation\obj\Debug\TestUserImpersonation.pdb
+F:\UserImpersonation\TestUserImpersonation\bin\Debug\TestUserImpersonation.exe.config
+F:\UserImpersonation\TestUserImpersonation\obj\Debug\TestUserImpersonation.exe
+F:\UserImpersonation\TestUserImpersonation\obj\Debug\TestUserImpersonation.pdb
+F:\UserImpersonation\TestUserImpersonation\bin\Debug\TestUserImpersonation.exe
+F:\UserImpersonation\TestUserImpersonation\bin\Debug\TestUserImpersonation.pdb
+F:\UserImpersonation\TestUserImpersonation\bin\Debug\UserImpersonation.dll
+F:\UserImpersonation\TestUserImpersonation\bin\Debug\UserImpersonation.pdb
+F:\UserImpersonation\TestUserImpersonation\obj\Debug\TestUserImpersonation.csprojResolveAssemblyReference.cache

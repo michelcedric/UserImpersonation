@@ -1,0 +1,5 @@
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\UserImpersonation\bin\Debug\UserImpersonation.dll
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\UserImpersonation\bin\Debug\UserImpersonation.pdb
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\UserImpersonation\obj\Debug\UserImpersonation.csprojResolveAssemblyReference.cache
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\UserImpersonation\obj\Debug\UserImpersonation.dll
+c:\users\michelce\documents\visual studio 2013\Projects\UserImpersonation\UserImpersonation\obj\Debug\UserImpersonation.pdb
